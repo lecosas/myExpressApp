@@ -7,6 +7,8 @@ var bodyParser = require('body-parser');
 
 var teste2 = "teste";
 
+var testeNewBranch = "new";
+
 var index = require('./routes/index');
 var users = require('./routes/users');
 
